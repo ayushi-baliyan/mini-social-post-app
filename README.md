@@ -4,9 +4,9 @@ A full-stack mini social media application where users can create posts, upload 
 
 ## 🚀 Live Demo
 
-Frontend: Coming soon
+Frontend: https://mini-social-post-app-one.vercel.app/
 
-Backend API: Coming soon
+Backend API: https://mini-social-post-app-00os.onrender.com/
 
 ## 📌 Features
 
